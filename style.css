@@ -1,0 +1,301 @@
+body{
+    background-image: linear-gradient(to right,#DC143C,#9932CC);
+    background-repeat: no-repeat;
+    background-size: cover;
+ 
+}
+.navbar{
+    height: 50px;
+    text-align: center;
+    width: 90%;
+    padding: 25px 25px;
+    margin-top: 100px;
+}
+.navbar button{
+    background-color: yellow;
+    padding: 15px 15px;
+    font-size: 15px;
+    
+}
+.tacos-btn{
+    width: 200px;
+    position: relative;
+    left: -100px;
+   
+
+}
+.beer-btn{
+    width: 200px;
+    position: relative;
+    left: -30px;
+   
+
+}
+.wine-btn{
+    width: 200px;
+    position: relative;
+    right: -50px;
+    
+
+}
+.dessert-btn{
+    width: 200px;
+    position: relative;
+    right: -90px;
+
+
+}
+.reservation-btn{
+    width: 200px;
+    position: relative;
+    right: -150px;
+    
+
+}
+.tacosbg {
+    margin-top: 70px;
+    margin-left: 20px;
+    width: 800px;
+    height: 400px;
+    background-image: url("tacosbg.jpg");
+    background-size: cover;
+    border-radius: 1%;
+}
+.text1{
+    height: 50px;
+    width: 190px;
+    background-color: yellow;
+
+
+
+}
+.text2{
+    width: 190px;
+    background-color: yellow;
+
+}
+.tac-price{
+    height: 200px;
+    width: 350px;
+    background-color: yellow;
+    text-align: center;
+    position: relative;
+    left: 900px;
+    bottom: 456px;
+    
+}
+.price1 {
+    position: relative;
+    top: 50px;
+    font-size: 55px;
+}
+.sub1{
+    position: relative;
+    top: 25px;
+    font-size: 25px;
+}
+.manchuria-price{
+    height: 200px;
+    width: 350px;
+    background-color: yellow;
+    text-align: center;
+    position: relative;
+    left: 900px;
+    bottom: 500px;
+    
+}
+.price2 {
+    position: relative;
+    top: 50px;
+    font-size: 55px;
+}
+.sub2{
+    position: relative;
+    top: 20px;
+    font-size: 25px;
+}
+.t1-h2{
+    position: relative;
+    top: 8px;
+}
+
+.highlights
+{
+    height: 300px;
+    width: 90%;
+   
+    position: relative;
+    bottom: 450px;
+    left: 10px;
+    text-align: center;
+    font-size: x-large;
+}
+.beerimg{
+    height: 50px;
+    width: 50px;
+    margin-top: 20px;
+}
+.tacimg
+{
+    height: 50px;
+    width: 50px;
+    margin-top: 20px;
+}
+.wineimg
+{
+    height: 50px;
+    width: 50px;
+    margin-top: 20px;
+}
+.musicimg
+{
+    height: 50px;
+    width: 50px;
+    margin-top: 20px;
+}
+.beer{
+    width: 250px;
+    height: 250px;
+    background-color: white;
+    position: relative;
+    left: 50px;
+}
+
+.Tacos{
+    width: 250px;
+    height: 250px;
+    background-color: white;
+    position: relative;
+    left: 350px;
+    bottom: 250px;
+}
+
+.wine{
+    width: 250px;
+    height: 250px;
+    background-color: white;
+    position: relative;
+    left: 650px;
+    bottom: 500px;
+}
+
+
+.music{
+    width: 250px;
+    height: 250px;
+    background-color: white;
+    position: relative;
+    left: 950px;
+    bottom: 750px;
+}
+.beertxt{
+    font-size: large;
+    color:crimson;
+}
+.featured{
+    height: 500px;
+    width: 90%;
+    background-color: white;
+    position: relative;
+    left: 32px;
+    bottom: 450px;
+}
+
+    
+.feat1{
+     font-weight: bold;
+    position: relative;
+    left: 700px;
+    bottom: 300px;
+    font-size: 30px;
+
+}
+.feat2
+{
+    font-weight: bold;
+    position: relative;
+    left: 700px;
+    bottom: 300px;
+
+}
+.feat3{
+    width: 200px;
+    background-color: yellow;
+    position: relative;
+    left: 700px;
+    bottom: 300px;
+
+}
+.feat4
+{
+    font-weight:bold ;
+    position: relative;
+    left: 700px;
+    bottom: 300px;
+
+}
+.fade{
+    position: relative;
+    bottom: 400px;
+    left: 530px;
+}
+.insta{
+    height: 500px;
+    width: 90%;
+    
+    position: relative;
+    left: 32px;
+    bottom: 350px;
+    border: 7px solid yellow;
+    border-radius: 2px;
+    
+}
+hr{
+    position: relative;
+    right: 530px;
+}
+.instaimg1{
+    height: 400px;
+    width: 400px;
+    position: relative;
+    top: 80px;
+    left: 20px;
+}
+.instaimg2{
+    height: 200px;
+    width: 300px;
+    position: relative;
+    top: 40px;
+    left: 50px;
+}
+
+.instaimg3{
+    height: 200px;
+    width: 500px;
+    position: relative;
+    left: 450px;
+    bottom: 400px;
+}
+
+.instaimg4{
+    height: 200px;
+    width: 200px;
+    position: relative;
+    left: 400px;
+    bottom: 150px;
+}
+
+.instaimg5{
+    height: 200px;
+    width: 200px;
+    position: relative;
+    left: 280px;
+    bottom: 400px;
+}
+button:hover{
+    background-color: white;
+}
+ h2{
+    color: yellow;
+}
+
